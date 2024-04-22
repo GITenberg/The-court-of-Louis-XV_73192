@@ -7,6 +7,9 @@ contributor:
     birthdate: 1837
     gutenberg_agent_id: '35830'
     url: http://www.gutenberg.org/2009/agents/35830
+covers:
+- cover_type: archival
+  image_path: 73192-h/images/cover.jpg
 creator:
   author:
     agent_name: Imbert de Saint-Amand
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1431
     wikipedia: https://fr.wikipedia.org/wiki/Arthur-L%C3%A9on_Imbert_de_Saint-Amand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73192#The-court-of-Louis-XV
 gutenberg_issued: '2024-03-18'
 gutenberg_type: Text
 identifiers:
